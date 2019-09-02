@@ -272,13 +272,13 @@ Factor Analysis
 
 - Common factors $(f_m)$ explain variability in manifest variables
 
-```{r, echo=FALSE, fig.align='center'}
+```{r, factorPlot, message=FALSE, echo=FALSE, fig.align='center'}
 library(semPlot)
 
 # A silly dataset:
 F1 <- rnorm(100)
 F2 <- rnorm(100)
-X <- rnorm(1) * F1 + rnorm(1) * F2 + rnorm(1) * X * Y
+X <- rnorm(1) * F1 + rnorm(1) * F2 + rnorm(1) * F1 * F2
 DF <- data.frame(X, F1, F2)
 
 # Regression including interaction:
