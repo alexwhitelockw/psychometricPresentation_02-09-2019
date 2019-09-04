@@ -1,0 +1,164 @@
+.title-slide {
+  background-color : #5CA4A9;
+  color : #F4F1BB;
+  font-family : arial;
+}
+
+.title-slide h1 {
+  margin-top: 350px;
+}
+
+.overview-slide {
+  background-color: #F4F1BB;
+  color: #ED6A5A;
+}
+
+.overview-text {
+  font-family : arial;
+  font-size: 250px;
+  left: 0;
+  line-height: 200px;
+  margin-top: -100px;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+
+.phd-overview {
+  background-color: #E6EBE0;
+  color: #5CA4A9;
+}
+
+.phd-text {
+  font-family : arial;
+  font-size: 150px;
+  left: 0;
+  line-height: 200px;
+  margin-top: -100px;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+
+.current-work{
+  background-color: #9BC1BC;
+  color: #ED6A5A;
+}
+
+.current-work-text{
+  font-family : arial;
+  font-size: 100px;
+  left: 0;
+  line-height: 200px;
+  margin-top: -100px;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+
+.quest-slide {
+  background-color : #F4F1BB;
+  color: #9BC1BC;
+}
+
+.questPsych {
+  font-family : arial;
+  font-size: 100px;
+  left: 0;
+  line-height: 200px;
+  margin-top: -200px;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+
+.grit-slide {
+  background-color : #ED6A5A;
+  color : #E6EBE0;
+}
+
+.grit-text {
+  font-family : arial;
+  font-size: 300px;
+  left: 0;
+  line-height: 200px;
+  margin-top: -100px;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+
+.grit-points{
+  margin-top:150px;
+}
+
+.grit-textTwo {
+  font-family : arial;
+  margin-top: -50px;
+}
+
+.measureMatters{
+  background-color : #5CA4A9;
+  color : #F4F1BB;
+}
+
+.mm-text {
+  font-family : arial;
+  font-size: 100px;
+  left: 0;
+  line-height: 200px;
+  margin-top: -250px;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+
+.intelligenceSlide{
+  background-color : #ED6A5A;
+  color : #F4F1BB;  
+}
+
+.intelText{
+  font-family : arial;
+  font-size: 100px;
+  left: 0;
+  line-height: 200px;
+  margin-top: -150px;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;  
+}
+
+.intellPoll{
+  font-family : arial;
+  font-size: 50px;
+  left: 0;
+  line-height: 200px;
+  margin-top: -25px;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;  
+}
+
+.factorSlide{
+  background-color : #E6EBE0;
+  color : #ED6A5A;  
+}
+
+.networkSlide{
+  background-color : #9BC1BC;
+  color : #ED6A5A;  
+}
+
+.caveatSlide{
+  background-color:#F4F1BB;
+  color:#5CA4A9;
+}
